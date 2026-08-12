@@ -1,0 +1,2 @@
+/** Diets feature placeholder. */
+export {};

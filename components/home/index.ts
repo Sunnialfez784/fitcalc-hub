@@ -1,0 +1,13 @@
+export { HeroSection } from "./hero-section";
+export { StatsSection } from "./stats-section";
+export { CalculatorCategoriesSection } from "./calculator-categories";
+export { WhyChooseSection } from "./why-choose";
+export { FeaturedCalculatorsSection } from "./featured-calculators";
+export { FeaturedWorkoutsSection } from "./featured-workouts";
+export { DietPlansSection } from "./diet-plans";
+export { BlogPreviewSection } from "./blog-preview";
+export { TestimonialsSection } from "./testimonials";
+export { NewsletterSection } from "./newsletter";
+export { FaqSection } from "./faq-section";
+export { SectionHeader } from "./section-header";
+export { GlassCard } from "./glass-card";
